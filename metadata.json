@@ -1,0 +1,7 @@
+{
+  "name": "Conversational Intelligence Assistant",
+  "description": "An application that continuously listens to system audio, transcribes it in real time, and generates contextual text-based insights like summaries and potential responses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
